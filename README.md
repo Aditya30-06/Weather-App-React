@@ -1,23 +1,32 @@
-# 🌦️ React Weather App
+# 🌦️ Weather App - React
 
-A clean and responsive weather application built with **React** and **Material UI**, allowing users to search for any city and get real-time weather information like temperature, min/max temp, weather condition, and more — with beautiful visuals based on temperature range.
+A sleek and responsive weather application built using **React** and **Vite** that fetches real-time weather data and presents it in a clean, user-friendly UI using **Material UI**.
 
----
+## 🔗 Live Demo
 
-## 🔍 Features
-
-- 🔎 Search for any city to fetch current weather data  
-- 🌡️ Displays temperature, min/max temp, weather description, and "feels like" temp  
-- 🌁 Dynamic background image based on weather conditions  
-- ❌ Error handling with clean UI message if the city is not found  
-- 🧊 Weather icons based on temperature (hot, cold, very cold)
+👉 [Click here to view the live app](https://aditya30-06.github.io/Weather-App-React/)
 
 ---
 
-## 🛠️ Tech Stack
+## 📸 Preview
 
-- **React.js**
-- **Material UI** (`@mui/material`)
-- **OpenWeatherMap API** for live weather data
-- **Unsplash** for dynamic background images
+![Weather App Preview](https://user-images.githubusercontent.com/your-screenshot-link.jpg) <!-- Optional: Replace with actual screenshot URL -->
 
+---
+
+## ⚙️ Features
+
+- 🔍 Search weather by city name
+- 🌡️ Displays temperature, feels-like, max and min temps
+- 🌤️ Dynamic icons and background images based on weather
+- 💬 User-friendly error handling for invalid inputs
+- 💅 Clean and responsive UI using Material UI
+
+---
+
+## 🚀 Technologies Used
+
+- [React](https://reactjs.org/)
+- [Vite](https://vitejs.dev/)
+- [Material UI (MUI)](https://mui.com/)
+- [OpenWeatherMap API](https://openweathermap.org/api)
