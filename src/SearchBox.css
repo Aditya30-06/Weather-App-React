@@ -1,0 +1,42 @@
+.search-form {
+  max-width: 500px;
+  margin: 50px auto;
+  padding: 30px 25px;
+  background-color: #ffffff;
+  border-radius: 15px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: center;
+  transition: all 0.3s ease;
+}
+
+.search-form:hover {
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.15);
+}
+
+.search-form .MuiTextField-root {
+  width: 100%;
+}
+
+.search-form button {
+  width: 100%;
+  background: linear-gradient(to right, #1976d2, #42a5f5);
+  color: white;
+  font-weight: bold;
+  transition: background 0.3s ease;
+  padding: 10px 0;
+  border-radius: 8px;
+}
+
+.search-form button:hover {
+  background: linear-gradient(to right, #1565c0, #1e88e5);
+}
+
+.error-text {
+  color: #e53935;
+  font-size: 15px;
+  text-align: center;
+  font-weight: 500;
+}
