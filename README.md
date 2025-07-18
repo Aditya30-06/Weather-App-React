@@ -8,12 +8,6 @@ A sleek and responsive weather application built using **React** and **Vite** th
 
 ---
 
-## 📸 Preview
-
-![Weather App Preview](https://user-images.githubusercontent.com/your-screenshot-link.jpg) <!-- Optional: Replace with actual screenshot URL -->
-
----
-
 ## ⚙️ Features
 
 - 🔍 Search weather by city name
